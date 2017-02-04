@@ -9,10 +9,13 @@ To enable option of multiple copy and paste operation simultaneously to the user
 Most operating systems (Microsoft Windows, Linux flavours - Ubuntu, Fedora) provide copy-paste option. However, if a person needs to copy-paste 2 different piece of content simultaneously from 1 location to 2 distinct locations, there is no such feature available.
 
 For e.g. My name is Chaitanya. I play violin.
+
 If I copy both sentences, currently I can paste it to 1 location together.
 
 However with Simultaneous Multiple Copy Paste feature, one can select ```"My name is Chaitanya"``` with Keys ```(Ctrl+C+1)``` and ```"I play violin"``` with Keys```(Ctrl+C+2) ```
+
 Paste 1st sentence to desired location X
+
 Paste 2nd sentence to another desired location Y
 
 Above feature is of much use to programmers who have to handle code from different files and packages regularly.
