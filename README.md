@@ -5,6 +5,21 @@ An Operating System domain project on Multiple copy-paste feature. Currently wor
 
 To enable option of multiple copy and paste operation simultaneously to the user across all the programs running on the Operating System.
 
+## Background :-
+Most operating systems (Microsoft Windows, Linux flavours - Ubuntu, Fedora) provide copy-paste option. However, if a person needs to copy-paste 2 different piece of content simultaneously from 1 location to 2 distinct locations, there is no such feature available.
+
+For e.g. My name is Chaitanya. I play violin.
+If I copy both sentences, currently I can paste it to 1 location together.
+
+However with Simultaneous Multiple Copy Paste feature, one can select ```"My name is Chaitanya"``` with Keys ```(Ctrl+C+1)``` and ```"I play violin"``` with Keys```(Ctrl+C+2) ```
+Paste 1st sentence to desired location X
+Paste 2nd sentence to another desired location Y
+
+Above feature is of much use to programmers who have to handle code from different files and packages regularly.
+
+##### Shell Script
+##### Xdotools, Xclip package for Ubuntu
+
 ## INTRODUCTION :-
 
 The best thing about copy paste software is it allows you to paste one thing after another without having to copy anything again. You can paste hundreds of items in a row that you have previously copied without having to re-copy them again. By using shortcut hot-keys that you create you can easily paste previously copied text snippets – pictures – or complete files into the required fields.
